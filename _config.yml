@@ -1,3 +1,5 @@
+# Configure Search option for the website
+
 # Enable or disable the site search
 # Supports true (default) or false
 search_enabled: true
@@ -26,6 +28,8 @@ search:
   # Supports true or false (default)
   button: false
   
+# Configure upper right navigation
+
 # Aux links for the upper right navigation
 aux_links:
   "Ziggurat Systems on Github!":
@@ -33,3 +37,8 @@ aux_links:
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
+
+# Configure color scheme
+
+# Color scheme supports "light" (default) and "dark"
+color_scheme: dark
